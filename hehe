@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>موقعي البسيط</title>
+</head>
+<body>
+
+  <header>
+    <h1>مرحبًا بك في موقعي</h1>
+    <nav>
+      <ul>
+        <li><a href="#">الرئيسية</a></li>
+        <li><a href="#">حول</a></li>
+        <li><a href="#">اتصل بنا</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>نبذة عن الموقع</h2>
+      <p>هذا موقع بسيط تم إنشاؤه باستخدام HTML فقط كواجهة مبدئية.</p>
+    </section>
+
+    <section>
+      <h2>خدماتنا</h2>
+      <ul>
+        <li>تصميم واجهات</li>
+        <li>برمجة مواقع</li>
+        <li>دروس تعليمية</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>جميع الحقوق محفوظة &copy; 2025</p>
+  </footer>
+
+</body>
+</html>
